@@ -1,0 +1,8 @@
+# in src
+-ConnDB.java
+# in WebContent
+- index.html
+# in WebContent>lib folder
+- paste odbc.jar file
+# in Libraries
+- add odbc.jar file
