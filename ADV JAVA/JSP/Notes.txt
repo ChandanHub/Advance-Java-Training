@@ -1,0 +1,3 @@
+#
+- place jsp file in Web content
+- once code run on server > refresh to load again
